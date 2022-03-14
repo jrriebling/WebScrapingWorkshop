@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="227.1376mm"
+   height="35.128761mm"
+   viewBox="0 0 227.1376 35.128761"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="OffenVsStandard.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-grids="false"
+     inkscape:zoom="0.88102693"
+     inkscape:cx="432.44989"
+     inkscape:cy="215.08991"
+     inkscape:window-width="1854"
+     inkscape:window-height="1037"
+     inkscape:window-x="30"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     height="25.12876mm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       originx="-32.278664"
+       originy="-64.962021" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="92.304642"
+       y="321.64954"
+       width="229.40108"
+       height="46.491295"
+       id="rect5310" />
+    <rect
+       x="94.48819"
+       y="188.97638"
+       width="188.97638"
+       height="226.77165"
+       id="rect4586" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path923" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path920" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect861"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <rect
+       x="92.304642"
+       y="321.64954"
+       width="299.27844"
+       height="47.38913"
+       id="rect7366" />
+    <rect
+       x="92.304642"
+       y="321.64954"
+       width="299.27844"
+       height="47.38913"
+       id="rect12532" />
+    <rect
+       x="92.304642"
+       y="321.64954"
+       width="229.40108"
+       height="46.491295"
+       id="rect14210" />
+    <rect
+       x="92.304642"
+       y="321.64954"
+       width="299.27844"
+       height="47.38913"
+       id="rect14212" />
+    <rect
+       x="92.304642"
+       y="321.64954"
+       width="299.27844"
+       height="47.38913"
+       id="rect14214" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-32.278665,-64.962022)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text4584"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4586)" />
+    <g
+       id="g25683"
+       transform="translate(2.000002,5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+         d="m 104.54835,78.05557 c 29.94096,0 59.88174,0 89.82234,0"
+         id="path859"
+         inkscape:path-effect="#path-effect861"
+         inkscape:original-d="m 104.54835,78.05557 c 29.94096,1.83e-4 59.88174,1.83e-4 89.82234,0" />
+      <g
+         id="g14034"
+         transform="translate(1.6933879,-21.276666)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,7.8876454,-1.1510834e-6)"
+           id="text5308"
+           style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5310)"><tspan
+             x="132.35917"
+             y="341.04565"
+             id="tspan25719">Offene Erhebung</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-1.3636409,10.698501)"
+           id="text7364"
+           style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect7366)"><tspan
+             x="118.65807"
+             y="341.04565"
+             id="tspan25721">Nicht-standardisierte Daten</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-1.2327276,20.115465)"
+           id="text12530"
+           style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect12532)"><tspan
+             x="147.47053"
+             y="341.04565"
+             id="tspan25723">Qualitative Verfahren</tspan></text>
+      </g>
+      <g
+         id="g25576"
+         transform="translate(1.0583333,-0.52916667)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,172.76993,-20.7475)"
+           id="text14198"
+           style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14210)"><tspan
+             x="105.104"
+             y="341.04565"
+             id="tspan25725">Strukturierte Erhebung</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,163.51864,-10.048998)"
+           id="text14202"
+           style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14212)"><tspan
+             x="145.5122"
+             y="341.04565"
+             id="tspan25727">Standardisierte Daten</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,163.64955,-0.632034)"
+           id="text14206"
+           style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14214)"><tspan
+             x="140.78825"
+             y="341.04565"
+             id="tspan25729">Quantitative Verfahren</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
